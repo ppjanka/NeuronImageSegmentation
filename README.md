@@ -4,7 +4,7 @@ Full data and model exploration notebook for segmentation of microscope images o
 
 The original notebook (with full notebook preview, version history, and connection to the relevant data sources) is availabile [on Kaggle Notebooks](https://www.kaggle.com/ppjanka/2021-sartorius-neuronsegmentation).
 
-**Contents**
+**Contents:**
  - (image) data cleaning,
  - initial dataset exploration to identify biases,
  - image data augmentation,
